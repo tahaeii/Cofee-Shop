@@ -1,5 +1,5 @@
 # Cofee-Shop-with-C++
-======================
+
 A simple coffee shop program, written in C++ language.
 Functions, classes and object orientation are used in this program.
 
